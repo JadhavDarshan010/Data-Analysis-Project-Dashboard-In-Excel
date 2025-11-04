@@ -5,9 +5,8 @@
 - It helps identify top-performing products, months, and salesmen, as well as low-performing areas that need improvement.
 - The goal is to turn raw sales data into meaningful insights that support better business decisions and future sales planning.
 ## Dataset used
-- <a href="https://github.com/JadhavDarshan010/Data-Analysis-Project-Dashboard-In-Excel/blob/main/Dashboard%20Data.xlsx">Dataset With DashBoard </a>
+- <a href="https://github.com/JadhavDarshan010/Data-Analysis-Project-Dashboard-In-Excel/blob/main/Dashboard%20Data.xlsx"> Dataset With DashBoard </a>
 
-- <a href="https://drive.google.com/file/d/1ksfgBZiiRjmv7Fqg5gfUbGu0hbzBMoc9/view?usp=sharing">Dataset With DashBoard </a>
 
 ## Thing's To look For -
 1. Total  Revenue and Total Product Sales (2021 ).
@@ -16,12 +15,14 @@
 4. Salesman With The Number Of  Products They sold (month –wise) ,Top 3 & Bottom 3 Sales Person (month-Wise).
 
 
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
+## Here Is The Project Video Link -
+-  <a href="https://drive.google.com/file/d/1ksfgBZiiRjmv7Fqg5gfUbGu0hbzBMoc9/view?usp=sharing"> Project Expalnation Video. </a>
 
 
 ## Project Insight
@@ -36,7 +37,6 @@
 5. East Region Has Generated The Highest Yearly revenue (7.36 Lakh Rupees ) In 2021.
 
 6. The Top 3 Salesman Were Sidhhu (419 Products Sold) , Rohit Das (335 Products ), Ajit Kumar (394 products). On The Other Hand , The Bottom 3 Sales Person Were Ramesh (144 Products) , Chandu (144 Products) , Amit (146 Products) .
-
 
 
 ## Conclusion & Next Plan:
